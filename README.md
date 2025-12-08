@@ -1,6 +1,6 @@
 # Invoice Classifier
 
-A machine learning application that classifies invoices into different categories (e.g., utilities, purchase orders, receipts) using a trained model. The app is deployed on Render, allowing users to upload invoices and receive predictions via a web interface or API.
+A machine learning application that classifies invoices into different categories (e.g., utilities, purchase orders, receipts) using a trained model. The app is deployed on Render, allowing users to upload invoices and receive predictions via a web interface.
 
 ## Features
 
@@ -16,9 +16,9 @@ A machine learning application that classifies invoices into different categorie
 
 ## Tech Stack
 
-- Backend: Python, FastAPI / Flask
+- Backend: Python, FastAPI
 
-- Machine Learning: PyTorch / TensorFlow / Scikit-learn (depending on your model)
+- Machine Learning: PyTorch
 
 - Frontend: React
 
